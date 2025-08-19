@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap");
+
+/* Tailwind base, components, utilities */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom theme variables */
+:root {
+  --color-primary: #6c25ff;
+  --color-secondary: #cebafb;
+  --color-base: #f7f8f9;
+  --font-inter: "Inter", sans-serif;
+}
