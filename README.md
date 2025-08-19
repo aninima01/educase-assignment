@@ -41,8 +41,8 @@ The project also demonstrates a modular folder structure with reusable UI compon
 Clone the repository:
 
 ``` bash
-git clone https://github.com/your-username/vite-react-ts-app.git
-cd vite-react-ts-app
+git clone https://github.com/aninima01/educase-assignment.git
+cd educase-assignment
 ```
 
 ## Install dependencies:
